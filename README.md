@@ -26,13 +26,14 @@
 
 <br />
 
+
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=RRSR&count_private=true&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Raj's GitHub stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RRSR&count_private=true&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
+
 ### Connect with me:
 
 [<img align="left" alt="RRSR | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
-
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=RRSR&count_private=true&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Raj's GitHub stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RRSR&count_private=true&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
 
 [linkedin]: https://www.linkedin.com/in/rajrajeshwarsinghrathore
