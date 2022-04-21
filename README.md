@@ -1,5 +1,7 @@
 ## Hi there, I'm Raj Rajeshwar👋
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=RRSR&label=Profile%20views&color=0e75b6&style=flat" alt="RRSR" /> </p>
+
 ### I'm a Son, Husband, and Developer!!
 
 - 🌱 I’m currently learning system design
