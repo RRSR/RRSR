@@ -5,7 +5,7 @@
 ### I'm a Son, Husband, and Developer!!
 
 - 🌱 I’m currently learning system design and Reat
-- 🥅 2022 Goals: Build better system then today
+- 🥅 2023 Goals: Build better systems than today
 - ⚡ Fun fact: I love to read about History
 
 ### Languages and Tools:
