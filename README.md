@@ -37,8 +37,8 @@
 
 ### Connect with me:
 
-[<img alt="RRSR | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+<a href="https://stackexchange.com/users/8210085/raj-rajeshwar-singh-rathore"><img src="https://stackexchange.com/users/flair/8210085.png" width="208" height="58" alt="profile for Raj Rajeshwar Singh Rathore on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Raj Rajeshwar Singh Rathore on Stack Exchange, a network of free, community-driven Q&amp;A sites" /></a>
 
-<br />
+[<img alt="RRSR | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [linkedin]: https://www.linkedin.com/in/rajrajeshwarsinghrathore
